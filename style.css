@@ -1,0 +1,14 @@
+table{
+    border: 1px red solid;
+}
+td.a{
+    border: blue 3px solid;
+}
+
+table.verde {
+    border: green 1px solid;
+}
+
+td.verde {
+    border: green 1px solid;
+}
